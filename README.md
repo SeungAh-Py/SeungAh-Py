@@ -1,5 +1,7 @@
 # Hello:)
 
+![](https://github.com/SeungAh-Py/SeungAh-Py/raw/main/assets/kitty.jpg)
+
 ## I'm learning...
 
 + Python
